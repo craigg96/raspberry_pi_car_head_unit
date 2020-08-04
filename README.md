@@ -1,11 +1,10 @@
-# DIY Car Head_Unit
+# DIY Car Head Unit
 DIY raspberry pi car headunit with built in navigation and music using android auto as well as a dashcam, reverse camera and obd monitor
 
 ### Installer Script
-Installer for openauto which patches various issues with newer GSP/touchscreen/device detection issues.
-Should work on any OpenAuto compatible platform, but intended for Raspberry Pi.
+The installer script for openauto is by humeman and patches various issues with newer GSP/touchscreen/device detection issues.
 
-Tested using latest Raspbian Buster (2019-09-26) on 3B (but now supports other environments as of Feb 13 2020 - thank you DreamHazard for telling me about that)
+Tested using latest Raspbian Buster (2019-09-26) on 3B
 
 ### Installation Instructions
 * Install git, if it's not already installed: `sudo apt install git`
@@ -18,6 +17,8 @@ Tested using latest Raspbian Buster (2019-09-26) on 3B (but now supports other e
 
 ### Any issues?
 Any issues with android-auto setup see the patched installer repo >> https://github.com/humeman/openauto-patched-installer
+
+Any other issues let me know
 
 ### Uses:
 **AASDK**: [abraha2d/aasdk](https://github.com/abraha2d/aasdk), forked from: [opencardev/aasdk](https://github.com/opencardev/aasdk), forked from: [f1xpl/aasdk](https://github.com/f1xpl/aasdk)
