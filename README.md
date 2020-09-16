@@ -1,6 +1,8 @@
 # DIY Car Head Unit
 DIY raspberry pi car headunit with built in navigation and music using android auto as well as a dashcam, reverse camera and obd monitor
 
+![Head_Unit.png](https://github.com/craigg96/raspberry_pi_car_head_unit/blob/master/Head_Unit.png?raw=true)
+
 ### Installer Script
 The installer script for openauto is by humeman and patches various issues with newer GSP/touchscreen/device detection issues.
 
